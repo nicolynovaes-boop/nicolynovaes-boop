@@ -1,7 +1,4 @@
-## oii, eu sou a nicoly👋
 
-<!--
-**nicolynovaes-boop/nicolynovaes-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:dog
 - 💟 gosto de sair com as amgs...
